@@ -1,6 +1,6 @@
 {
   "name": "react-native-rate",
-  "version": "1.1.6",
+  "version": "1.1.19-megaplan.0",
   "description": "React Native Rate is a cross platform solution to getting users to easily rate your app.",
   "main": "index",
   "scripts": {
@@ -22,6 +22,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KjellConnelly/react-native-rate.git"
+  },
+  "publishConfig": {
+    "registry": "http://npm.megoplan.ru"
   },
   "bugs": {
     "url": "https://github.com/KjellConnelly/react-native-rate/issues"
